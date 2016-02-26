@@ -1,0 +1,15 @@
+{
+  "name": "sacramento-parking-data",
+  "version": "1.0.0",
+  "description": "Location of public parking spots in Sacramento, CA from the city's open data portal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-axton/sacramento-parking-data.git"
+  },
+  "main": "sacramento-parking-data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Axton",
+  "license": "MIT"
+}
